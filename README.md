@@ -39,10 +39,15 @@
 
 
 # Paper / Seminar / Issue
+<details>
+<summary>Previous Year</summary>
+<div markdown="1">
+
 ## 2015
 * [Paper] [Fuzzing Android: a recipe for uncovering vulnerabilities inside system components in Android](https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf)
 
 ## 2016
+
 * [Paper] [STAB Fuzzing: A Study of Android's Binder IPC and Linux/Android Fuzzing]()
 * [Paper] [안드로이드 장치 드라이버에 대한 효과적 취약점 탐지 기법]()
 
@@ -64,6 +69,9 @@
 	* [Seminar] [Beyond Root]()
 * [Report] [Arbitrary code execution on Facebook for Android through download feature]()
 * [Report] [Samsung S20 - RCE via Samsung Galaxy Store App]()
+
+</div>
+</details>
 
 ## 2021
 * [Report] [In-the-Wild Series: Android Exploits]()
