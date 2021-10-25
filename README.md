@@ -4,7 +4,7 @@
 
 # Theory
 
-* [Android Kernel Exploitation](https://cloudfuzz.github.io/android-kernel-exploitation/)
+* [Android Kernel Exploitation](https://cloudfuzz.github.io/android-kernel-exploitation/){:target="_blank"}
 * [Hacking Android Apps with Frida](https://www.youtube.com/watch?v=iMNs8YAy6pk)
 * [Android_Frida_Scripts](https://github.com/androidmalware/android_frida_scripts)
 * [Real-time Kernel Protection (RKP)](https://www.samsungknox.com/ko/blog/real-time-kernel-protection-rkp)
@@ -87,7 +87,7 @@
   * [Exploit] [Exploit for Qualcomm CVE-2020-11239](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Qualcomm/CVE-2020-11239)
 * [Report] [Two weeks of securing Samsung devices](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
 * [Seminar] [Samsung Security Tech Forum 2021](https://www.youtube.com/watch?v=RDl81Jd83zc)
-* [Seminar] [[드로이드나이츠 2021] [송성현 - 해커 입장에서 생각해보고 안전한 앱 개발하기](https://www.youtube.com/watch?v=xwrSg8RkJx0)
+* [Seminar] [드로이드나이츠 2021] [송성현 - 해커 입장에서 생각해보고 안전한 앱 개발하기](https://www.youtube.com/watch?v=xwrSg8RkJx0)
 * [Seminar] [TiYunZong Exploit Chain to Remotely Root Modern Android Devices - Pwn Android Phones from 2015-2020](https://www.youtube.com/watch?v=K91SrkKt4IQ)
 * [Seminar] [Emulating Samsung's Baseband for Security Testing](https://www.youtube.com/watch?v=wkWUU8820ro)
 * [Seminar] [Stealthily Access Your Android Phones: Bypass the Bluetooth Authentication](https://www.youtube.com/watch?v=6J3weqoiads)
