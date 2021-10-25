@@ -117,10 +117,11 @@
 * [Google Application Security](https://bughunters.google.com/)
 * [BugCrowd](https://www.bugcrowd.com/)
 
-#### Blog
+#### Blog / Site
 * [SamMobile](https://www.sammobile.com/)
 * [XDA Developers](https://forum.xda-developers.com/)
 * [ESTsecurity 알약블로그](https://blog.alyac.co.kr/)
+* [Cyber Security RSS](https://rss.netking.xyz)
 * [Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security)
 
 #### SNS
