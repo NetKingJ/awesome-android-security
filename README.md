@@ -1,5 +1,5 @@
 # Android(Samsung)-Security-Awesome
-<img src="android.png" width="40%" height="30%" title="SAMSUNG" alt="SAMSUNG_LOGO"></img>
+<img src="img/android.png" width="40%" height="30%" title="SAMSUNG" alt="SAMSUNG_LOGO"></img>
 
 
 # Theory
@@ -46,24 +46,24 @@
 </div>
 </details> -->
 
-## 2015
+#### 2015
 * [Paper] [Fuzzing Android: a recipe for uncovering vulnerabilities inside system components in Android](https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf)
 
-## 2016
+#### 2016
 
 * [Paper] [STAB Fuzzing: A Study of Android's Binder IPC and Linux/Android Fuzzing](https://www.semanticscholar.org/paper/STAB-Fuzzing-%3A-A-St-udy-of-A-ndroid-%E2%80%99-s-B-inder-IPC-Peters/9ed41192e02e106b5367c9d143f447f7036b2aa0?p2df)
 * [Paper] [안드로이드 장치 드라이버에 대한 효과적 취약점 탐지 기법](http://kiise.or.kr/e_journal/2016/11/JOK/pdf/01.pdf)
 
-## 2017
+#### 2017
 * [Seminar] [A Whole New Efficient Fuzzing Strategy for Stagefright](https://slideplayer.com/slide/13546193)
 
-## 2019
+#### 2019
 * [Seminar] [KNOX Kernel Mitigation Bypasses](https://powerofcommunity.net/poc2019/x82.pdf)
 * ~~[Report] [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)~~
 * [Seminar] [Android Security Internals](https://www.opersys.com/presentations/2019-05-15/android-security-internals-pub/slides-main-190515.html#/)
   * [Video] [Android Security Internals](https://www.youtube.com/watch?v=7QwhF4ANq6Q)
 
-## 2020
+##### 2020
 * [Seminar] [Breaking Samsung's Root of Trust - Exploiting Samsung Secure Boot](https://www.blackhat.com/us-20/briefings/schedule/index.html#breaking-samsungs-root-of-trust-exploiting-samsung-s-secure-boot-20290)
 * [Report] [Flaws in ‘Find My Mobile’ exposed Samsung phones to hack](https://char49.com/tech-reports/fmmx1-report.pdf)
 * [Report] [Project Zero : MMS Exploit](https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-1-introduction-to-qmage.html)
@@ -74,7 +74,7 @@
 * [Report] [Arbitrary code execution on Facebook for Android through download feature](https://dphoeniixx.medium.com/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
 * [Report] [Samsung S20 - RCE via Samsung Galaxy Store App](https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app)
 
-## 2021
+#### 2021
 * [Report] [In-the-Wild Series: Android Exploits](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-android-exploits.html)
 * [Seminar] [Blowing the Cover of Android Binary Fuzzing](https://speakerdeck.com/flankerhqd/blowing-the-cover-of-android-binary-fuzzing)
 	* [Seminar] [3rd Real World CTF: Blowing the cover of android binary fuzzing](https://www.youtube.com/watch?v=y05uja2o6GE)
@@ -100,36 +100,36 @@
 
 
 # NEWS
-## 2020
+#### 2020
 * [2020.05] [삼성전자, 제로 클릭 취약점 패치 완료](https://blog.alyac.co.kr/2962)
 * [2020.08] [‘내 기기 찾기’ 기능에서 취약점 발견, 삼성 모바일 기기 해킹 위험 있어](https://blog.alyac.co.kr/3181)
 * [2020.08] [전세계 스마트폰 40%에 내장된 칩 취약점 발견](http://www.inews24.com/view/1291857?fbclid=IwAR2vgkXm7WAiA52MYMvi1iRdt2igehObAvhjX-r-wiajgNtcSorfCdzeNlQ)
 * [2020.09] [Code Execution Vulnerability in Instagram App for Android and iOS](https://research.checkpoint.com/2020/instagram_rce-code-execution-vulnerability-in-instagram-app-for-android-and-ios/?fbclid=IwAR11Dco36ih-0_DfFSXdgQ7VReYiWjB22WKQQnTjI4kuxN1CX1KSecFhwy4)
 
-## 2021
+#### 2021
 * [2021.03] [구글 안드로이드 오류로 폰 앱 먹통…"웹뷰 삭제하세요"(종합)](https://newsis.com/view/?id=NISX20210323_0001380395)
 * [2021.06] [Hackers Can Exploit Samsung Pre-Installed Apps to Spy On Users](https://thehackernews.com/2021/06/hackers-can-exploit-samsung-pre.html)
 
 
 # etc
-## BugBounty
+##### BugBounty
 * [Samsung Mobile Security](https://security.samsungmobile.com/main.smsb)
 * [Google Application Security](https://bughunters.google.com/)
 * [BugCrowd](https://www.bugcrowd.com/)
 
-## Blog
+#### Blog
 * [SamMobile](https://www.sammobile.com/)
 * [XDA Developers](https://forum.xda-developers.com/)
 * [ESTsecurity 알약블로그](https://blog.alyac.co.kr/)
 * [Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security)
 
-## SNS
+#### SNS
 * [AndroidInfoSec](https://www.facebook.com/AndroidInfoSec)
 * [ExWareLabs](https://www.facebook.com/ExWareLabs/)
 
-## CTF
+#### CTF
 * [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
 
 # Samsung Mobile Security Statistics (21.10.05.)
-![Alt text](Samsung_Mobile_Security_Statistics.png)
+![Alt text](img/Samsung_Mobile_Security_Statistics.png)
