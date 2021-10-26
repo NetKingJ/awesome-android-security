@@ -13,13 +13,13 @@
 
 # Virtual / Build / Source
 
-* [Android Open Source Project (AOSP)](https://source.android.com/setup) : QEMU(Quick Emulator) 하이퍼바이저
+* [Android Open Source Project (AOSP)](https://source.android.com/setup) : QEMU(Quick Emulator) Hypervisor
 * [Android Studio : Android Virtual Device (AVD) Manager](https://developer.android.com/studio)
 * [Android x86](https://www.android-x86.org/)
 * [Nox Player](https://kr.bignox.com/)
-* [Samsung Open Source](https://opensource.samsung.com/main) : 오픈소스
-* [Samsung Firmware](https://samfw.com/) : 펌웨어
-* [Frija](https://forum.xda-developers.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) : 펌웨어
+* [Samsung Open Source](https://opensource.samsung.com/main) : Open source
+* [Samsung Firmware](https://samfw.com/) : Firmware
+* [Frija](https://forum.xda-developers.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) : Firmware
 
 # Fuzzer / Tool
 
@@ -35,7 +35,7 @@
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 * [APKLeaks](https://github.com/dwisiswant0/apkleaks)
-* [Diffuse](https://github.com/JakeWharton/diffuse) : APK 비교
+* [Diffuse](https://github.com/JakeWharton/diffuse) : APK Diff
 
 
 # Paper / Seminar / Issue
