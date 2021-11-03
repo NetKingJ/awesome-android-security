@@ -1,5 +1,5 @@
 # Android(Samsung)-Security-Awesome
-<img src="img/android.png" width="40%" height="30%" title="SAMSUNG" alt="SAMSUNG_LOGO"></img>
+![Alt text](img/googlexsamsung.png)
 
 
 # Theory
