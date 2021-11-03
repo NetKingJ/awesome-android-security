@@ -59,7 +59,7 @@
 
 #### 2019
 * [Seminar] [KNOX Kernel Mitigation Bypasses](https://powerofcommunity.net/poc2019/x82.pdf)
-* ~~[Report] [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)~~
+* ~~[Report] [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)~~ <span style="color:red">Unable to connect</span>
 * [Seminar] [Android Security Internals](https://www.opersys.com/presentations/2019-05-15/android-security-internals-pub/slides-main-190515.html#/)
   * [Video] [Android Security Internals](https://www.youtube.com/watch?v=7QwhF4ANq6Q)
 
@@ -130,5 +130,5 @@
 * [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
 
-# Samsung Mobile Security Statistics (21.10.05.)
-![Alt text](img/Samsung_Mobile_Security_Statistics.png)
+# Samsung Mobile Security Statistics (2021.11.)
+![Alt text](img/SVS_2111.png)
