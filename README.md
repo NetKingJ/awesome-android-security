@@ -131,4 +131,4 @@
 
 
 # Samsung Mobile Security Statistics (2021.11.)
-![Alt text](img/SVS_2111.png)
+![Alt text](img/SVS_2111.jpg)
