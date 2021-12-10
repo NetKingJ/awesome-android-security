@@ -3,7 +3,7 @@
 
 
 # Theory
-
+* <a href="https://www.google.com/" target="_blank">새 탭에서 열기</a>
 * [Android Kernel Exploitation](https://cloudfuzz.github.io/android-kernel-exploitation/)
 * [Hacking Android Apps with Frida](https://www.youtube.com/watch?v=iMNs8YAy6pk)
 * [Android_Frida_Scripts](https://github.com/androidmalware/android_frida_scripts)
