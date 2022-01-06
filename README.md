@@ -131,5 +131,5 @@
 * [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
 
-# Samsung Mobile Security Statistics (2021.12.)
-![Alt text](img/SVS_2112.jpg)
+# Samsung Mobile Security Statistics (2022.01.)
+![Alt text](img/SVS_2201.jpg)
