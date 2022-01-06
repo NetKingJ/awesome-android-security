@@ -132,4 +132,4 @@
 
 
 # Samsung Mobile Security Statistics (2022.01.)
-![Alt text](img/SVS_220.jpg)
+![Alt text](img/SVS_2201.jpg)
