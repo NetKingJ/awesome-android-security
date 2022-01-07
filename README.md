@@ -1,4 +1,4 @@
-# Android(Samsung)-Security-Awesome
+# Android(Samsung) Security Awesome
 ![Alt text](img/googlexsamsung.png)
 
 
@@ -8,6 +8,8 @@
 * [Android_Frida_Scripts](https://github.com/androidmalware/android_frida_scripts)
 * [Real-time Kernel Protection (RKP)](https://www.samsungknox.com/ko/blog/real-time-kernel-protection-rkp)
 * [Breaking TEE Security](https://www.riscure.com/blog/tee-security-samsung-teegris-part1)
+* [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
+* [Android Security Lecture](https://jyheo.github.io/androidsec/androidsec.html) : 허준영 교수님 강의 자료
 
 
 # Virtual / Build / Source
@@ -16,9 +18,9 @@
 * [Android Studio : Android Virtual Device (AVD) Manager](https://developer.android.com/studio)
 * [Android x86](https://www.android-x86.org/)
 * [Nox Player](https://kr.bignox.com/)
-* [Samsung Open Source](https://opensource.samsung.com/main) : Open source
-* [Samsung Firmware](https://samfw.com/) : Firmware
-* [Frija](https://forum.xda-developers.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) : Firmware
+* [Samsung Open Source](https://opensource.samsung.com/main)
+* [SamFw](https://samfw.com/) : Android Firmware
+* [Frija](https://forum.xda-developers.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) : Android Firmware
 
 # Fuzzer / Tool
 
@@ -38,12 +40,6 @@
 
 
 # Paper / Seminar / Issue
-<!-- <details>
-<summary>Previous Year</summary>
-<div markdown="1">
-
-</div>
-</details> -->
 
 #### 2015
 * [Paper] [Fuzzing Android: a recipe for uncovering vulnerabilities inside system components in Android](https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf)
@@ -124,8 +120,8 @@
 * [Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security)
 
 #### SNS
-* [AndroidInfoSec](https://www.facebook.com/AndroidInfoSec)
-* [ExWareLabs](https://www.facebook.com/ExWareLabs/)
+* [Android Infosecurity](https://www.facebook.com/AndroidInfoSec)
+* [ExploitWareLabs](https://www.facebook.com/ExWareLabs/)
 
 #### CTF
 * [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
