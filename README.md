@@ -92,6 +92,14 @@
 * [Speaker] [Exploring & Exploiting Zero-Click Remote Interfaces of Modern Huawei Smartphones](https://youtu.be/e9gZEHhBfsM)
   * [Presentation Slides](https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Komaromy-How-To-Tame-Your-Unicorn.pdf)
   * [Paper](https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Komaromy-How-To-Tame-Your-Unicorn-wp.pdf)
+* [Speaker] [Typhoon Mangkhut: One-click Remote Universal Root Formed with Two Vulnerabilities](https://youtu.be/a1vyt6iWmS4)
+  * [Presentation Slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Typhoon-Mangkhut-One-Click-Remote-Universal-Root-Formed-With-Two-Vulnerabilities.pdf)
+* [Speaker] [Breaking Secure Bootloaders](https://youtu.be/XvGcQgx9Jg8)
+  * [Presentation Slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Breaking-Secure-Bootloaders.pdf)
+* [Speaker] [Can You Hear Me Now? Remote Eavesdropping Vulnerabilities in Mobile Messaging Applications](https://youtu.be/s44K1IBnw4I)
+  * [Presentation Slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Can-You-Hear-Me-Now-Remote-Eavesdropping-Vulnerabilities-In-Mobile-Messaging-Applications.pdf)
+* [Speaker] []()
+  * [Presentation Slides]()
 
 
 # CVE / SVE
@@ -119,12 +127,13 @@
 * [BugCrowd](https://www.bugcrowd.com/)
 
 #### Blog / Site
+* [BlackHat](https://www.blackhat.com/)
+* [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
+* [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
 * [SamMobile](https://www.sammobile.com/)
 * [XDA Developers](https://forum.xda-developers.com/)
 * [ESTsecurity 알약블로그](https://blog.alyac.co.kr/)
 * [Cyber Security RSS](https://rss.netking.xyz)
-* [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
-* [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
 
 #### SNS
 * [Android Infosecurity](https://www.facebook.com/AndroidInfoSec)
