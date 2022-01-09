@@ -55,8 +55,8 @@
 #### 2019
 * [Speaker] [KNOX Kernel Mitigation Bypasses](https://powerofcommunity.net/poc2019/x82.pdf)
 * ~~[Report] [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)~~ Unable to connect</span>
-* [Speaker] [Android Security Internals](https://www.opersys.com/presentations/2019-05-15/android-security-internals-pub/slides-main-190515.html#/)
-  * [Video] [Android Security Internals](https://www.youtube.com/watch?v=7QwhF4ANq6Q)
+* [Speaker] [Android Security Internals](https://www.youtube.com/watch?v=7QwhF4ANq6Q)
+  * [Presentation Slides](https://www.opersys.com/presentations/2019-05-15/android-security-internals-pub/slides-main-190515.html#/)
 
 ##### 2020
 * [Speaker] [Breaking Samsung's Root of Trust - Exploiting Samsung Secure Boot](https://www.blackhat.com/us-20/briefings/schedule/index.html#breaking-samsungs-root-of-trust-exploiting-samsung-s-secure-boot-20290)
