@@ -20,7 +20,7 @@
 * [Nox Player](https://kr.bignox.com/)
 * [Samsung Open Source](https://opensource.samsung.com/main)
 * [SamFw](https://samfw.com/) : [Web] Android Firmware
-* [Frija](https://forum.xda-developers.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) : [Software] Android Firmware
+* [Frija](https://github.com/SlackingVeteran/frija/releases) : [Software] Android Firmware
 
 # Fuzzer / Tool
 
