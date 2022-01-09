@@ -39,7 +39,7 @@
 * [Diffuse](https://github.com/JakeWharton/diffuse) : APK Diff
 
 
-# Paper / Speaker / Issue
+# Paper / Speaker
 
 #### 2015
 * [Paper] [Fuzzing Android: a recipe for uncovering vulnerabilities inside system components in Android](https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf)
@@ -75,8 +75,6 @@
 	* [Speaker] [3rd Real World CTF: Blowing the cover of android binary fuzzing](https://www.youtube.com/watch?v=y05uja2o6GE)
 * [Report] [Data Driven Security Hardening in Android](https://security.googleblog.com/2021/01/data-driven-security-hardening-in.html)
 * [Report] [An apparently benign app distribution scheme which has all it takes to turn (very) ugly](https://cryptax.medium.com/an-apparently-benign-app-distribution-scheme-which-has-all-it-takes-to-turn-very-ugly-f733be528535)
-* [Issue] [installing third-party apps and providing them Device Admin rights (no permissions required)](https://twitter.com/_bagipro/status/1360982834228432898)
-* [Issue] [Vulnerability in Genymotion emulator allows any app to steal and change hosts clipboard](https://github.com/eybisi/misc)
 * [Paper] [FraudDetective： 안드로이드 모바일 광고 사기 탐지 및 사기 발생의 인과관계 분석](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3B-1_23161_paper-1.pdf?fbclid=IwAR2MWn2R-jnO6lhm7z-t2liWiWYgA2UykmTPBeUzSe13Dn5hpSBc_FyM0NQ)
 * [Report] [Android Kernel Privilege Escalation (CVE-2020-11239)](https://securitylab.github.com/research/one_day_short_of_a_fullchain_android/)
   * [Exploit] [Exploit for Qualcomm CVE-2020-11239](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Qualcomm/CVE-2020-11239)
@@ -106,7 +104,7 @@
 * [Samsung SVE DataBase](https://security.samsungmobile.com/main.smsb)
 
 
-# NEWS
+# Issue
 #### 2020
 * [2020.05] [삼성전자, 제로 클릭 취약점 패치 완료](https://blog.alyac.co.kr/2962)
 * [2020.08] [‘내 기기 찾기’ 기능에서 취약점 발견, 삼성 모바일 기기 해킹 위험 있어](https://blog.alyac.co.kr/3181)
@@ -114,11 +112,12 @@
 * [2020.09] [Code Execution Vulnerability in Instagram App for Android and iOS](https://research.checkpoint.com/2020/instagram_rce-code-execution-vulnerability-in-instagram-app-for-android-and-ios/?fbclid=IwAR11Dco36ih-0_DfFSXdgQ7VReYiWjB22WKQQnTjI4kuxN1CX1KSecFhwy4)
 
 #### 2021
+* [2021.02] [installing third-party apps and providing them Device Admin rights (no permissions required)](https://twitter.com/_bagipro/status/1360982834228432898)
 * [2021.03] [구글 안드로이드 오류로 폰 앱 먹통…"웹뷰 삭제하세요"(종합)](https://newsis.com/view/?id=NISX20210323_0001380395)
 * [2021.06] [Hackers Can Exploit Samsung Pre-Installed Apps to Spy On Users](https://thehackernews.com/2021/06/hackers-can-exploit-samsung-pre.html)
 
 
-# etc
+# Other
 ##### BugBounty
 * [Samsung Mobile Security](https://security.samsungmobile.com/main.smsb)
 * [Google Application Security](https://bughunters.google.com/)
