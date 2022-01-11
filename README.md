@@ -102,12 +102,6 @@
   * [Presentation Slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Can-You-Hear-Me-Now-Remote-Eavesdropping-Vulnerabilities-In-Mobile-Messaging-Applications.pdf)
 
 
-# CVE / SVE
-* [Google(Android) CVE DataBase](https://vuldb.com/?vendor.google)
-* [Samsung CVE DataBase](https://vuldb.com/?vendor.samsung)
-* [Samsung SVE DataBase](https://security.samsungmobile.com/main.smsb)
-
-
 # Issue
 #### 2020
 * [2020.05] [삼성전자, 제로 클릭 취약점 패치 완료](https://blog.alyac.co.kr/2962)
@@ -122,10 +116,15 @@
 
 
 # Other
-##### BugBounty
+#### BugBounty
 * [Samsung Mobile Security](https://security.samsungmobile.com/main.smsb)
 * [Google Application Security](https://bughunters.google.com/)
 * [BugCrowd](https://www.bugcrowd.com/)
+
+#### CVE / SVE
+* [Google(Android) CVE DataBase](https://vuldb.com/?vendor.google)
+* [Samsung CVE DataBase](https://vuldb.com/?vendor.samsung)
+* [Samsung SVE DataBase](https://security.samsungmobile.com/main.smsb)
 
 #### Blog / Site
 * [BlackHat](https://www.blackhat.com/)
