@@ -145,3 +145,4 @@
 
 # Samsung Mobile Security Statistics (2022.01.)
 ![Alt text](img/SVS_2201.jpg)
+![](https://notion-ga.ohwhos.now.sh/collect?tid=G-GN27KKMXEV&host=github.com&page=/NetKingJ/android-security-awesome)
