@@ -136,6 +136,7 @@
 
 #### Blog / Site
 * [BlackHat](https://www.blackhat.com/)
+* [Bug Bounty Hunting Search Engine](https://www.bugbountyhunting.com/)
 * [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
 * [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
 * [SamMobile](https://www.sammobile.com/)
