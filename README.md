@@ -101,6 +101,9 @@
 * [Speaker] [Can You Hear Me Now? Remote Eavesdropping Vulnerabilities in Mobile Messaging Applications](https://youtu.be/s44K1IBnw4I)
   * [Presentation Slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Can-You-Hear-Me-Now-Remote-Eavesdropping-Vulnerabilities-In-Mobile-Messaging-Applications.pdf)
 
+##### 2022
+* [Report] [RCE IN ADOBE ACROBAT READER FOR ANDROID(CVE-2021-40724)](https://hulkvision.github.io/blog/post1/)
+
 
 # Issue
 #### 2020
@@ -145,4 +148,3 @@
 
 # Samsung Mobile Security Statistics (2022.01.)
 ![Alt text](img/SVS_2201.jpg)
-![](https://notion-ga.ohwhos.now.sh/collect?tid=G-GN27KKMXEV&host=github.com&page=/NetKingJ/android-security-awesome)
