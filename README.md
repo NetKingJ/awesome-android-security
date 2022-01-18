@@ -1,30 +1,6 @@
 # Android Security Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Alt text](img/googlexsamsung.png)
 
-- [Android Security Awesome ![Awesome](https://github.com/sindresorhus/awesome)](#android-security-awesome-)
-- [Theory](#theory)
-- [Virtual / Build / Source](#virtual--build--source)
-- [Fuzzer / Tool](#fuzzer--tool)
-- [Report / Paper / Speaker](#report--paper--speaker)
-      - [2015](#2015)
-      - [2016](#2016)
-      - [2017](#2017)
-      - [2019](#2019)
-      - [2020](#2020)
-      - [2021](#2021)
-        - [2022](#2022)
-- [Issue](#issue)
-      - [2020](#2020-1)
-      - [2021](#2021-1)
-- [Other](#other)
-      - [BugBounty](#bugbounty)
-      - [CVE / SVE](#cve--sve)
-      - [Blog / Site](#blog--site)
-      - [SNS](#sns)
-      - [CTF](#ctf)
-  - [Samsung Mobile Security Statistics (2022.01.)](#samsung-mobile-security-statistics-202201)
-  - [Backers](#backers)
-  - [License](#license)
 
 # Theory
 * [Android Kernel Exploitation](https://cloudfuzz.github.io/android-kernel-exploitation/)
@@ -176,7 +152,7 @@
 * [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
 
-## Samsung Mobile Security Statistics (2022.01.)
+## Samsung Mobile Security Statistics
 ![Alt text](img/SVS_2201.jpg)
 
 
