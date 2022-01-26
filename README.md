@@ -57,6 +57,7 @@
 * [Speaker] [KNOX Kernel Mitigation Bypasses](https://powerofcommunity.net/poc2019/x82.pdf)
 * [Speaker] [Android Security Internals](https://www.youtube.com/watch?v=7QwhF4ANq6Q)
   * [Presentation Slides](https://www.opersys.com/presentations/2019-05-15/android-security-internals-pub/slides-main-190515.html#/)
+* [Speaker] [Fuzzing OP -TEE with AFL](https://static.linaro.org/connect/san19/presentations/san19-225.pdf)
 
 #### 2020
 * [Report] [Flaws in ‘Find My Mobile’ exposed Samsung phones to hack](https://char49.com/tech-reports/fmmx1-report.pdf)
