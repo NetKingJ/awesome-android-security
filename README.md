@@ -109,6 +109,11 @@
 
 ##### 2022
 * [Report] [RCE IN ADOBE ACROBAT READER FOR ANDROID(CVE-2021-40724)](https://hulkvision.github.io/blog/post1/)
+* [Speaker] [A Deep Dive into Privacy Dashboard of Top Android Vendors](https://www.youtube.com/watch?v=LyWwGqkXtVM)
+  * [Presentation Slides](https://i.blackhat.com/EU-21/Thursday/EU-21-Bin-A-Deep-Dive-into-Privacy-Dashboard-of-Top-Android-Vendors.pdf)
+* [Speaker] [Hand in Your Pocket Without You Noticing: Current State of Mobile Wallet Security](https://www.youtube.com/watch?v=e3Lb_GHUKso)
+* [Speaker] [Re-route Your Intent for Privilege Escalation: A Universal Way to Exploit Android PendingIntents in High-profile and System Apps](https://www.youtube.com/watch?v=pc8ZKl5XG24)
+  * [Presentation Slides](https://i.blackhat.com/EU-21/Wednesday/EU-21-He-Re-route-Your-Intent-for-Privilege-Escalation-A-Universal-Way-to-Exploit-Android-PendingIntents-in-High-profile-and-System-Apps.pdf)
 
 
 # Issue
