@@ -9,7 +9,7 @@
 * [Real-time Kernel Protection (RKP)](https://www.samsungknox.com/ko/blog/real-time-kernel-protection-rkp)
 * [Breaking TEE Security](https://www.riscure.com/blog/tee-security-samsung-teegris-part1)
 * [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
-* [Android Security Lecture](https://jyheo.github.io/androidsec/androidsec.html) : 허준영 교수님 강의 자료
+* [Android Security Lecture](https://jyheo.github.io/androidsec/androidsec.html) : Professor 허준영 lecture material
 
 
 # Virtual / Build / Source
