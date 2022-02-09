@@ -22,6 +22,7 @@
 * [SamFw](https://samfw.com/) : [Web] Android Firmware
 * [Frija](https://github.com/SlackingVeteran/frija/releases) : [Software] Android Firmware
 
+
 # Analysis Tool
 
 * [Android-afl](https://github.com/ele7enxxh/android-afl)
@@ -37,6 +38,7 @@
 * [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 * [APKLeaks](https://github.com/dwisiswant0/apkleaks)
 * [Diffuse](https://github.com/JakeWharton/diffuse) : APK Diff
+* [LTEFuzz](https://sites.google.com/view/ltefuzz) : LTE Network Exception Handling Testing, KAIST
 
 
 # Report
@@ -77,6 +79,9 @@
 #### 2016
 * [Paper] [STAB Fuzzing: A Study of Android's Binder IPC and Linux/Android Fuzzing](https://www.semanticscholar.org/paper/STAB-Fuzzing-%3A-A-St-udy-of-A-ndroid-%E2%80%99-s-B-inder-IPC-Peters/9ed41192e02e106b5367c9d143f447f7036b2aa0?p2df)
 * [Paper] [안드로이드 장치 드라이버에 대한 효과적 취약점 탐지 기법](http://kiise.or.kr/e_journal/2016/11/JOK/pdf/01.pdf)
+
+#### 2019
+* [Paper] [Dynamic Security Analysis of the LTE Control Plane)](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 
 #### 2020
 * [Paper] [악성 안드로이드 앱 탐지를 위한 개선된 특성 선택 모델](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002597457)
@@ -141,6 +146,7 @@
 
 
 # Issue
+
 #### 2020
 * [2020.05] [삼성전자, 제로 클릭 취약점 패치 완료](https://blog.alyac.co.kr/2962)
 * [2020.08] [‘내 기기 찾기’ 기능에서 취약점 발견, 삼성 모바일 기기 해킹 위험 있어](https://blog.alyac.co.kr/3181)
@@ -154,6 +160,7 @@
 
 
 # Other
+
 #### BugBounty
 * [Samsung Mobile Security](https://security.samsungmobile.com/main.smsb)
 * [Google Application Security](https://bughunters.google.com/)
@@ -193,6 +200,7 @@ Thank you to all our supporters! 🙏
 <a href="https://www.buymeacoffee.com/netkingj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
 
 **[⬆ back to top](#Theory)**
+
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
