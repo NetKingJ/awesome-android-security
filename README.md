@@ -190,7 +190,7 @@
 
 
 ## Samsung Mobile Security Statistics
-![Alt text](img/SVS_2202.jpg)
+![Alt text](img/SVS_2202jpg)
 
 
 ## Backers
