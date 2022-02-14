@@ -53,6 +53,8 @@
 	* [Speaker] [Beyond Root](https://www.youtube.com/watch?v=aLe-xW-Ws4c)
 * [Report] [Arbitrary code execution on Facebook for Android through download feature](https://dphoeniixx.medium.com/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
 * [Report] [Samsung S20 - RCE via Samsung Galaxy Store App](https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app)
+* [Report] [Exploiting CVE-2020-0041 - Part 1: Escaping the Chrome Sandbox](https://labs.bluefrostsecurity.de/blog/2020/03/31/cve-2020-0041-part-1-sandbox-escape/)
+* [Report] [Exploiting CVE-2020-0041 - Part 2: Escalating to root](https://labs.bluefrostsecurity.de/blog/2020/04/08/cve-2020-0041-part-2-escalating-to-root/)
 
 #### 2021
 * [Report] [In-the-Wild Series: Android Exploits](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-android-exploits.html)
@@ -176,6 +178,7 @@
 * [Bug Bounty Hunting Search Engine](https://www.bugbountyhunting.com/)
 * [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
 * [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
+* [Awesome-Android-Security #3](https://github.com/vaib25vicky/awesome-mobile-security)
 * [SamMobile](https://www.sammobile.com/)
 * [XDA Developers](https://forum.xda-developers.com/)
 * [ESTsecurity 알약블로그](https://blog.alyac.co.kr/)
