@@ -188,8 +188,8 @@
 * [Samsung SVE DataBase](https://security.samsungmobile.com/main.smsb)
 
 #### Blog / Site
-* [Blog] [Oversecured](https://blog.oversecured.com/)
-* [Blog] [ESTsecurity 알약블로그](https://blog.alyac.co.kr/)
+* [Blog] [Oversecured Blog](https://blog.oversecured.com/)
+* [Blog] [ESTsecurity Blog](https://blog.alyac.co.kr/)
 * [Site] [BlackHat](https://www.blackhat.com/)
 * [Site] [Bug Bounty Hunting Search Engine](https://www.bugbountyhunting.com/)
 * [Site] [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
