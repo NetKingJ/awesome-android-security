@@ -172,6 +172,10 @@
 * [Odin](https://odindownloader.com/) : Samsung Root Software
 
 #### Etc
+* [Scrcpy](https://github.com/Genymobile/scrcpy) : ADB Based Android Screen Sharing Tool
+* [GDB](https://www.sourceware.org/gdb/)
+* [PEDA-ARM](https://github.com/alset0326/peda-arm) : ARM Architecture GDB PEDA Plug-in
+* [Turmux](https://termux.com/) : Android Terminal Emulator and Linux Environment App
 * [Diffuse](https://github.com/JakeWharton/diffuse) : APK Diff
 
 
