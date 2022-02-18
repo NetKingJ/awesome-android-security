@@ -171,7 +171,7 @@
 * [Magisk](https://github.com/topjohnwu/Magisk) : Provide Root Access for Applications
 * [Odin](https://odindownloader.com/) : Samsung Root Software
 
-#### etc
+#### Etc
 * [Diffuse](https://github.com/JakeWharton/diffuse) : APK Diff
 
 
