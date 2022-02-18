@@ -148,7 +148,6 @@
 * [JD-GUI](http://java-decompiler.github.io/) : Java Decompiler
 * [JADX](https://github.com/skylot/jadx) : DEX to Java Decompiler
 
-
 #### Online Analysis
 * [Oversecured](https://oversecured.com/) : Paid Use
 * [Virustotal](https://www.virustotal.com/) : Free Use
@@ -173,7 +172,7 @@
 
 #### Etc
 * [Scrcpy](https://github.com/Genymobile/scrcpy) : ADB Based Android Screen Sharing Tool
-* [GDB](https://www.sourceware.org/gdb/)
+* [GDB](https://www.sourceware.org/gdb/) : APK Library Analysis Tools
 * [PEDA-ARM](https://github.com/alset0326/peda-arm) : ARM Architecture GDB PEDA Plug-in
 * [Turmux](https://termux.com/) : Android Terminal Emulator and Linux Environment App
 * [Diffuse](https://github.com/JakeWharton/diffuse) : APK Diff
