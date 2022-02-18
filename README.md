@@ -139,9 +139,8 @@
 * [JEB Decompiler](https://www.pnfsoftware.com/) : Powerful Integrated Analysis Tools
 * [IDA Pro](https://hex-rays.com/) : Powerful Integrated Analysis Tools
 * [APKLab](https://github.com/APKLab/APKLab) : APK Integration Tool in VSCode
-* [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+* [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : [Online Service](https://mobsf.netking.xyz/)
 * [Droid-ff](https://github.com/antojoseph/droid-ff)
-* [DIFUZER](https://github.com/ucsb-seclab/difuze)
 * [Apktool](https://github.com/iBotPeaches/Apktool)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
@@ -165,6 +164,7 @@
 * [Droid: Android application fuzzing framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework)
 * [Writing the worlds worst Android fuzzer](https://gamozolabs.github.io/fuzzing/2018/10/18/terrible_android_fuzzer.html)
 * [DoApp (Denial of App): A smart Android Fuzzer for the future](https://www.iswatlab.eu/security-projects/doapp-denial-of-app-a-smart-android-fuzzer-for-the-future/)
+* [DIFUZER](https://github.com/ucsb-seclab/difuze)
 * [LTEFuzz](https://sites.google.com/view/ltefuzz) : LTE Network Exception Handling Testing, KAIST
 
 #### Root
