@@ -18,6 +18,9 @@
 
 # Report
 
+#### 2018
+* [Report] [Writing the worlds worst Android fuzzer](https://gamozolabs.github.io/fuzzing/2018/10/18/terrible_android_fuzzer.html)
+
 #### 2019
 * ~~[Report] [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)~~ Unable to connect
 
@@ -125,10 +128,10 @@
 # Virtual / Build / Source
 
 * [Android Open Source Project (AOSP)](https://source.android.com/setup) : QEMU(Quick Emulator) Hypervisor
-* [Android Studio : Android Virtual Device (AVD) Manager](https://developer.android.com/studio)
-* [Android x86](https://www.android-x86.org/)
-* [Nox Player](https://kr.bignox.com/)
-* [Samsung Open Source](https://opensource.samsung.com/main)
+* [Android Studio](https://developer.android.com/studio) : Android Virtual Device (AVD) Manager
+* [Android x86](https://www.android-x86.org/) : Android Virtual Emulator
+* [Nox Player](https://kr.bignox.com/) : Android Virtual Emulator
+* [Samsung Open Source](https://opensource.samsung.com/main) : Kernel, Platform Open Source
 * [SamFw](https://samfw.com/) : [Web] Android Firmware
 * [Frija](https://github.com/SlackingVeteran/frija/releases) : [Software] Android Firmware
 
@@ -140,10 +143,9 @@
 * [IDA Pro](https://hex-rays.com/) : Powerful Integrated Analysis Tools
 * [APKLab](https://github.com/APKLab/APKLab) : APK Integration Tool in VSCode
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : [Online Service](https://mobsf.netking.xyz/)
-* [Droid-ff](https://github.com/antojoseph/droid-ff)
-* [Apktool](https://github.com/iBotPeaches/Apktool)
-* [Bytecode Viewer](https://bytecodeviewer.com/)
-* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+* [Apktool](https://github.com/iBotPeaches/Apktool) : APK Files Reverse Engineering
+* [Bytecode Viewer](https://bytecodeviewer.com/) : Java Reverse Engineering
+* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Manipulate Android and iOS Apps at Runtime
 * [APKLeaks](https://github.com/dwisiswant0/apkleaks) : Scanning APK File for URIs, Endpoints & Secrets
 * [JD-GUI](http://java-decompiler.github.io/) : Java Decompiler
 * [JADX](https://github.com/skylot/jadx) : DEX to Java Decompiler
@@ -154,16 +156,16 @@
 
 #### Forensisc Analysis
 * [MAGNET Forensisc](https://www.magnetforensics.com/) : Powerful Integrated Analysis Tools
-* [Autopsy](https://www.autopsy.com/)
-* [Wireshark](https://www.wireshark.org/)
+* [Autopsy](https://www.autopsy.com/) : End-To-End Open Source Digital Forensics Platform																	
+* [Wireshark](https://www.wireshark.org/) : Network Protocol Analyzer
 
 #### Fuzzer
-* [Android-afl](https://github.com/ele7enxxh/android-afl)
-* [Fuzzing with libFuzzer](https://source.android.com/devices/tech/debug/libfuzzer)
-* [Droid: Android application fuzzing framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework)
-* [Writing the worlds worst Android fuzzer](https://gamozolabs.github.io/fuzzing/2018/10/18/terrible_android_fuzzer.html)
-* [DoApp (Denial of App): A smart Android Fuzzer for the future](https://www.iswatlab.eu/security-projects/doapp-denial-of-app-a-smart-android-fuzzer-for-the-future/)
-* [DIFUZER](https://github.com/ucsb-seclab/difuze)
+* [Android-afl](https://github.com/ele7enxxh/android-afl) : Android-enabled Version of AFL
+* [LibFuzzer](https://source.android.com/devices/tech/debug/libfuzzer) : A Library For Coverage-Guided Fuzz Testing
+* [Droid](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) : Android Application Fuzzing Framework
+* [Droid-ff](https://github.com/antojoseph/droid-ff) : Android File Fuzzing Framework
+* [DoApp](https://www.iswatlab.eu/security-projects/doapp-denial-of-app-a-smart-android-fuzzer-for-the-future/) : A Smart Android Fuzzer For The Future
+* [DIFUZER](https://github.com/ucsb-seclab/difuze) : Fuzzer for Linux Kernel Drivers
 * [LTEFuzz](https://sites.google.com/view/ltefuzz) : LTE Network Exception Handling Testing, KAIST
 
 #### Root
@@ -175,7 +177,7 @@
 * [GDB](https://www.sourceware.org/gdb/) : APK Library Analysis Tools
 * [PEDA-ARM](https://github.com/alset0326/peda-arm) : ARM Architecture GDB PEDA Plug-in
 * [Termux](https://termux.com/) : Android Terminal Emulator and Linux Environment App
-* [Diffuse](https://github.com/JakeWharton/diffuse) : APK Diff
+* [Diffuse](https://github.com/JakeWharton/diffuse) : APK, AAB, AAR, and JAR Diffing Tool
 
 
 # Other
@@ -190,25 +192,23 @@
 * [Samsung CVE DataBase](https://vuldb.com/?vendor.samsung)
 * [Samsung SVE DataBase](https://security.samsungmobile.com/main.smsb)
 
-#### Blog / Site
-* [Blog] [Oversecured Blog](https://blog.oversecured.com/)
-* [Blog] [ESTsecurity Blog](https://blog.alyac.co.kr/)
-* [Site] [BlackHat](https://www.blackhat.com/)
-* [Site] [Bug Bounty Hunting Search Engine](https://www.bugbountyhunting.com/)
-* [Site] [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
-* [Site] [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
-* [Site] [Awesome-Android-Security #3](https://github.com/vaib25vicky/awesome-mobile-security)
-* [Site] [AndroidMalware 2021](https://github.com/sk3ptre/AndroidMalware_2021)
-* [Site] [SamMobile](https://www.sammobile.com/)
-* [Site] [XDA Developers](https://forum.xda-developers.com/)
-* [Site] [Cyber Security RSS](https://rss.netking.xyz)
+#### Blog / Site / Git
+* [Oversecured Blog](https://blog.oversecured.com/) : Technology Blog
+* [ESTsecurity Blog](https://blog.alyac.co.kr/) : [KOR] Issue Blog
+* [BlackHat](https://www.blackhat.com/) : International Security Conference
+* [Bug Bounty Hunting Search Engine](https://www.bugbountyhunting.com/)
+* [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
+* [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
+* [Awesome-Android-Security #3](https://github.com/vaib25vicky/awesome-mobile-security)
+* [Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021)
+* [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
+* [SamMobile](https://www.sammobile.com/) : Community Site
+* [XDA Developers](https://forum.xda-developers.com/) : Community Site
+* [Cyber Security RSS](https://rss.netking.xyz) : Security Issue Collection Site
 
 #### SNS
 * [Android Infosecurity](https://www.facebook.com/AndroidInfoSec)
 * [ExploitWareLabs](https://www.facebook.com/ExWareLabs/)
-
-#### CTF
-* [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
 
 ## Samsung Mobile Security Statistics
