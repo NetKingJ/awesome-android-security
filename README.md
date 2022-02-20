@@ -145,10 +145,11 @@
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : [Online Service](https://mobsf.netking.xyz/)
 * [Apktool](https://github.com/iBotPeaches/Apktool) : APK Files Reverse Engineering
 * [Bytecode Viewer](https://bytecodeviewer.com/) : Java Reverse Engineering
-* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Manipulate Android and iOS Apps at Runtime
-* [APKLeaks](https://github.com/dwisiswant0/apkleaks) : Scanning APK File for URIs, Endpoints & Secrets
 * [JD-GUI](http://java-decompiler.github.io/) : Java Decompiler
 * [JADX](https://github.com/skylot/jadx) : DEX to Java Decompiler
+* [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Manipulate Android and iOS Apps at Runtime
+* [APKLeaks](https://github.com/dwisiswant0/apkleaks) : Scanning APK File for URIs, Endpoints & Secrets
+* [Apkingo](https://github.com/andpalmier/apkingo) : APK Details Exploration Tool
 
 #### Online Analysis
 * [Oversecured](https://oversecured.com/) : Paid Use
