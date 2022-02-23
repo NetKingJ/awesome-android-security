@@ -179,6 +179,8 @@
 * [PEDA-ARM](https://github.com/alset0326/peda-arm) : ARM Architecture GDB PEDA Plug-in
 * [Termux](https://termux.com/) : Android Terminal Emulator and Linux Environment App
 * [Diffuse](https://github.com/JakeWharton/diffuse) : APK, AAB, AAR, and JAR Diffing Tool
+* [AhMyth Android Rat](https://github.com/AhMyth/AhMyth-Android-RAT) : Sample Malware Production Tool
+* [TheFatRat](https://github.com/Screetsec/TheFatRat) : An Exploiting Tool which Compiles a Malware
 
 
 # Other
