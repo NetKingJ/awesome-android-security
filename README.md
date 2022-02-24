@@ -39,7 +39,7 @@
 * [Report] [Data Driven Security Hardening in Android](https://security.googleblog.com/2021/01/data-driven-security-hardening-in.html)
 * [Report] [An apparently benign app distribution scheme which has all it takes to turn (very) ugly](https://cryptax.medium.com/an-apparently-benign-app-distribution-scheme-which-has-all-it-takes-to-turn-very-ugly-f733be528535)
 * [Report] [Android Kernel Privilege Escalation (CVE-2020-11239)](https://securitylab.github.com/research/one_day_short_of_a_fullchain_android/)
-  * [Exploit] [Exploit for Qualcomm CVE-2020-11239](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Qualcomm/CVE-2020-11239)
+  * [PoC] [Exploit for Qualcomm CVE-2020-11239](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Qualcomm/CVE-2020-11239)
 * [Report] [Two weeks of securing Samsung devices](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
 * [Report] [Why dynamic code loading could be dangerous for your apps: a Google example](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
 * [Report] [Exploiting memory corruption vulnerabilities on Android](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
@@ -77,7 +77,9 @@
 
 #### 2022
 * [Paper] [DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices](https://www.usenix.org/system/files/sec22summer_park-cheoljun.pdf)
-  * [Report](https://gsis.kaist.ac.kr/blog/kaist-%ec%97%b0%ea%b5%ac%ec%a7%84-%ec%9d%b4%eb%8f%99%ed%86%b5%ec%8b%a0-%eb%8b%a8%eb%a7%90-%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%88%a0%eb%a1%9c-%ea%b5%ac%ed%98%84-%ec%98%a4/?fbclid=IwAR37QzRuibvjOdZusXk5X96_DD7ja6z2crxUPllY0qTubPX84AujKqPnA2s)
+  * [Report] [KAIST 연구진, 이동통신 단말 보안 테스트 기술로 구현 오류 22건 발견](https://gsis.kaist.ac.kr/blog/kaist-%ec%97%b0%ea%b5%ac%ec%a7%84-%ec%9d%b4%eb%8f%99%ed%86%b5%ec%8b%a0-%eb%8b%a8%eb%a7%90-%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%88%a0%eb%a1%9c-%ea%b5%ac%ed%98%84-%ec%98%a4/?fbclid=IwAR37QzRuibvjOdZusXk5X96_DD7ja6z2crxUPllY0qTubPX84AujKqPnA2s)
+* [Paper] [Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design](https://eprint.iacr.org/2022/208.pdf)
+  * [PoC] [Keybuster](https://github.com/shakevsky/keybuster)
 
 
 # Speaker
