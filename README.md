@@ -127,17 +127,6 @@
   * [Presentation Slides](https://i.blackhat.com/EU-21/Wednesday/EU-21-He-Re-route-Your-Intent-for-Privilege-Escalation-A-Universal-Way-to-Exploit-Android-PendingIntents-in-High-profile-and-System-Apps.pdf)
 
 
-# Virtual / Build / Source
-
-* [Android Open Source Project (AOSP)](https://source.android.com/setup) : QEMU(Quick Emulator) Hypervisor
-* [Android Studio](https://developer.android.com/studio) : Android Virtual Device (AVD) Manager
-* [Android x86](https://www.android-x86.org/) : Android Virtual Emulator
-* [Nox Player](https://kr.bignox.com/) : Android Virtual Emulator
-* [Samsung Open Source](https://opensource.samsung.com/main) : Kernel, Platform Open Source
-* [SamFw](https://samfw.com/) : [Web] Android Firmware
-* [Frija](https://github.com/SlackingVeteran/frija/releases) : [Software] Android Firmware
-
-
 # Tools
 
 #### Static / Dynamic Analysis
@@ -179,6 +168,15 @@
 * [Quark Engine](https://github.com/quark-engine/quark-engine) : An Obfuscation-Neglect Android Malware Scoring System
 * [AhMyth Android Rat](https://github.com/AhMyth/AhMyth-Android-RAT) : Sample Malware Production Tool
 * [TheFatRat](https://github.com/Screetsec/TheFatRat) : An Exploiting Tool which Compiles a Malware
+
+#### Virtual / Build / Source
+* [Android Open Source Project (AOSP)](https://source.android.com/setup) : QEMU(Quick Emulator) Hypervisor
+* [Android Studio](https://developer.android.com/studio) : Android Virtual Device (AVD) Manager
+* [Android x86](https://www.android-x86.org/) : Android Virtual Emulator
+* [Nox Player](https://kr.bignox.com/) : Android Virtual Emulator
+* [Samsung Open Source](https://opensource.samsung.com/main) : Kernel, Platform Open Source
+* [SamFw](https://samfw.com/) : [Web] Android Firmware
+* [Frija](https://github.com/SlackingVeteran/frija/releases) : [Software] Android Firmware
 
 #### Etc
 * [Scrcpy](https://github.com/Genymobile/scrcpy) : ADB Based Android Screen Sharing Tool
