@@ -97,6 +97,9 @@
 * [Speaker] [Breaking Samsung's Root of Trust - Exploiting Samsung Secure Boot](https://www.blackhat.com/us-20/briefings/schedule/index.html#breaking-samsungs-root-of-trust-exploiting-samsung-s-secure-boot-20290)
 * [Speaker] [Samsung Security Tech Forum 2020](https://www.youtube.com/watch?v=XDRFY5s1SE8)
 * [Speaker] [Qualcomm Compute DSP for Fun and Profit](https://www.youtube.com/watch?v=CrLJ29quZY8)
+* [Speaker] [PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation](https://youtu.be/I90v8UMhBQs)
+  * [Presentation Slides](https://www.usenix.org/system/files/sec20_slides_harrison-final.pdf)
+  * [Paper](https://www.usenix.org/system/files/sec20summer_harrison_prepub.pdf)
 
 #### 2021
 * [Speaker] [Exploring & Exploiting Zero-Click Remote Interfaces of Modern Huawei Smartphones](https://youtu.be/e9gZEHhBfsM)
@@ -207,6 +210,7 @@
 * [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
 * [Awesome-Android-Security #3](https://github.com/vaib25vicky/awesome-mobile-security)
 * [Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021)
+* [TEE Basics & General](https://github.com/enovella/TEE-reversing) : TEE Resources
 * [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 * [SamMobile](https://www.sammobile.com/) : Community Site
 * [XDA Developers](https://forum.xda-developers.com/) : Community Site
