@@ -48,7 +48,10 @@
 * [Report] [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 
 #### 2022
-* [Report] [RCE IN ADOBE ACROBAT READER FOR ANDROID(CVE-2021-40724)](https://hulkvision.github.io/blog/post1/)
+* [Report] [RCE IN ADOBE ACROBAT READER FOR ANDROID (CVE-2021-40724)](https://hulkvision.github.io/blog/post1/)
+* [Report] [The Dirty Pipe Vulnerability (CVE-2022-0847)](https://dirtypipe.cm4all.com/)
+  * [PoC] [DirtyPipe for Android](https://github.com/polygraphene/DirtyPipe-Android)
+  * [Video](https://twitter.com/Fire30_/status/1503422980612923404)
 
 
 # Paper
