@@ -84,6 +84,8 @@
   * [Report] [KAIST 연구진, 이동통신 단말 보안 테스트 기술로 구현 오류 22건 발견](https://gsis.kaist.ac.kr/blog/kaist-%ec%97%b0%ea%b5%ac%ec%a7%84-%ec%9d%b4%eb%8f%99%ed%86%b5%ec%8b%a0-%eb%8b%a8%eb%a7%90-%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%88%a0%eb%a1%9c-%ea%b5%ac%ed%98%84-%ec%98%a4/?fbclid=IwAR37QzRuibvjOdZusXk5X96_DD7ja6z2crxUPllY0qTubPX84AujKqPnA2s)
 * [Paper] [Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design](https://eprint.iacr.org/2022/208.pdf)
   * [PoC] [Keybuster](https://github.com/shakevsky/keybuster)
+* [Paper] [ARM 캐시 일관성 인터페이스를 이용한 안드로이드OS 의 스크린 잠금 기능 부채널 공격](http://koreascience.or.kr/article/JAKO202211955000026.pdf)
+* [Paper] [GhostTouch: Targeted Attacks on Touchscreens without Physical Touch](https://www.usenix.org/system/files/sec22summer_wang-kai.pdf)
 
 
 # Speaker
