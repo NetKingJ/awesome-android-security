@@ -86,6 +86,11 @@
   * [PoC] [Keybuster](https://github.com/shakevsky/keybuster)
 * [Paper] [ARM 캐시 일관성 인터페이스를 이용한 안드로이드OS 의 스크린 잠금 기능 부채널 공격](http://koreascience.or.kr/article/JAKO202211955000026.pdf)
 * [Paper] [GhostTouch: Targeted Attacks on Touchscreens without Physical Touch](https://www.usenix.org/system/files/sec22summer_wang-kai.pdf)
+* [Paper] [SAUSAGE: Security Analysis of Unix domain Socket usAGE in Android](https://arxiv.org/pdf/2204.01516.pdf)
+* [Paper] [insecure:// Vulnerability Analysis of URI Scheme Handling in Android Mobile Browsers](https://www.ndss-symposium.org/wp-content/uploads/madweb2022_23003_paper.pdf)
+* [Paper] [FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware](https://www.ndss-symposium.org/wp-content/uploads/2022-136-paper.pdf)
+* [Paper] [Large-scale Security Measurements on the Android Firmware Ecosystem](https://chicharitomu14.github.io/files/2022-ICSE.pdf)
+* [Paper] [GhostTalk: Interactive Attack on Smartphone Voice System Through Power Line](https://arxiv.org/pdf/2202.02585.pdf)
 
 
 # Speaker
