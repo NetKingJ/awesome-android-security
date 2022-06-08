@@ -234,7 +234,7 @@
 
 ## Samsung Mobile Security Statistics
 ##### * Please note that the statistics are not accurate.
-![Alt text](img/SVS_2204.jpg)
+![Alt text](img/SVS_2206.jpg)
 
 
 ## Backers
