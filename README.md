@@ -139,6 +139,9 @@
 * [Speaker] [Hand in Your Pocket Without You Noticing: Current State of Mobile Wallet Security](https://www.youtube.com/watch?v=e3Lb_GHUKso)
 * [Speaker] [Re-route Your Intent for Privilege Escalation: A Universal Way to Exploit Android PendingIntents in High-profile and System Apps](https://www.youtube.com/watch?v=pc8ZKl5XG24)
   * [Presentation Slides](https://i.blackhat.com/EU-21/Wednesday/EU-21-He-Re-route-Your-Intent-for-Privilege-Escalation-A-Universal-Way-to-Exploit-Android-PendingIntents-in-High-profile-and-System-Apps.pdf)
+* [Speaker] [DroidGuard: A Deep Dive into SafetyNet](https://static.sstic.org/videos2022/1080p/droidguard_a_deep_dive_into_safetynet.mp4)
+  * [Presentation Slides](https://www.romainthomas.fr/publication/22-sstic-blackhat-droidguard-safetynet/slides.pdf)
+  * [Paper](https://www.romainthomas.fr/publication/22-sstic-blackhat-droidguard-safetynet/whitepaper.pdf)
 
 
 # Tools
