@@ -146,6 +146,7 @@
 * [Speaker] [Android static taint analysis 기법과 발전 방향](https://www.youtube.com/watch?v=tSmgW62lYb4)
   * [Presentation Slides](https://github.com/codeengn/codeengn-conference/blob/master/18/2022%20CodeEngn%20Conference%2018%2C%20Android%20static%20taint%20analysis%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A5%E1%86%B8%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A3%E1%86%BC%20%5B%E1%84%89%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AE%E1%86%AB%5D.pdf)
 * [Speaker] [Android 12에서 Dynamic Taint Analysis 기법을 이용한 Kakao talk의 복호화](https://www.facebook.com/decashx1/videos/796844991474286)
+* [Video] [Hacking a Samsung Galaxy for $6,000,000 in Bitcoin!?](https://youtu.be/icBD5PiyoyI)
 
 
 # Tools
