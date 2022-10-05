@@ -219,6 +219,7 @@
 * [Google(Android) CVE DataBase](https://vuldb.com/?vendor.google)
 * [Samsung CVE DataBase](https://vuldb.com/?vendor.samsung)
 * [Samsung SVE DataBase](https://security.samsungmobile.com/main.smsb)
+* [Samsung SVE DataBase CSV](https://github.com/NetKingJ/awesome-android-security/tree/main/Samsung_SVE_DataBase)
 
 #### Blog / Site / Git
 * [Oversecured Blog](https://blog.oversecured.com/) : Technology Blog
@@ -242,6 +243,7 @@
 
 ## Samsung Mobile Security Statistics
 ##### * Please note that the statistics are not accurate.
+##### * Based on [Samsung SVE DataBase](https://github.com/NetKingJ/awesome-android-security/tree/main/Samsung_SVE_DataBase).
 ![Alt text](img/Samsung_Mobile_Security_Statistics.png)
 
 
