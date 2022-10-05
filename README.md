@@ -256,11 +256,7 @@ Thank you to all our supporters! 🙏
 **[⬆ back to top](#Theory)**
 
 
-## License
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+## Contributing
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/NetKingJ/awesome-android-security/tree/main/CONTRIBUTING.md) first.
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-- - -
-
-If you have any question about this opinionated list, do not hesitate to contact me [@NetKingJ](https://www.facebook.com/netkingj/) on Facebook or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me open an [issue](https://github.com/NetKingJ/awesome-android-security/issues) on GitHub.
