@@ -205,6 +205,7 @@
 * [GDB](https://www.sourceware.org/gdb/) : APK Library Analysis Tools
 * [PEDA-ARM](https://github.com/alset0326/peda-arm) : ARM Architecture GDB PEDA Plug-in
 * [Termux](https://termux.com/) : Android Terminal Emulator and Linux Environment App
+  * [Plugin] [PRoot Distro](https://github.com/termux/proot-distro) : A Bash script wrapper for utility proot
 * [Diffuse](https://github.com/JakeWharton/diffuse) : APK, AAB, AAR, and JAR Diffing Tool
 
 
