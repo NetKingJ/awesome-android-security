@@ -15,6 +15,7 @@
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 * [Frida Cheatsheet and Code Snippets for Android](https://erev0s.com/blog/frida-code-snippets-for-android/)
 * [Frida HandBook](https://learnfrida.info/)
+* [Android App Security Checklist](https://github.com/hamm0nz/android_app_security_checklist)
 
 
 # Report
@@ -53,6 +54,7 @@
 * [Report] [The Dirty Pipe Vulnerability (CVE-2022-0847)](https://dirtypipe.cm4all.com/)
   * [PoC] [DirtyPipe for Android](https://github.com/polygraphene/DirtyPipe-Android)
   * [Video](https://twitter.com/Fire30_/status/1503422980612923404)
+* [Report] [SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction](https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/) 
 
 
 # Paper
