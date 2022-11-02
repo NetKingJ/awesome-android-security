@@ -1,4 +1,4 @@
-# Awesome Android Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/NetKingJ/Awesome-Android-Security)
+# Awesome Android Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/NetKingJ/awesome-android-security) [![GitHub stars](https://img.shields.io/github/stars/NetKingJ/awesome-android-security.svg?style=flat&label=Star)](https://github.com/NetKingJ/awesome-android-security/stargazers) [![GitHub forks](https://img.shields.io/github/forks/NetKingJ/awesome-android-security.svg?style=flat&label=Fork)](https://github.com/NetKingJ/awesome-android-security/fork) [![GitHub watchers](https://img.shields.io/github/watchers/NetKingJ/awesome-android-security.svg?style=flat&label=Watch)](https://github.com/NetKingJ/awesome-android-security/watchers)
 ![Alt text](img/googlexsamsung.png)
 
 
