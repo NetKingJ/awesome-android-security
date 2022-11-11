@@ -41,20 +41,27 @@
 * [Report] [Data Driven Security Hardening in Android](https://security.googleblog.com/2021/01/data-driven-security-hardening-in.html)
 * [Report] [An apparently benign app distribution scheme which has all it takes to turn (very) ugly](https://cryptax.medium.com/an-apparently-benign-app-distribution-scheme-which-has-all-it-takes-to-turn-very-ugly-f733be528535)
 * [Report] [Android Kernel Privilege Escalation (CVE-2020-11239)](https://securitylab.github.com/research/one_day_short_of_a_fullchain_android/)
-  * [PoC] [Exploit for Qualcomm CVE-2020-11239](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Qualcomm/CVE-2020-11239)
+  * [PoC Code] [Exploit for Qualcomm CVE-2020-11239](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Qualcomm/CVE-2020-11239)
 * [Report] [Two weeks of securing Samsung devices](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
 * [Report] [Why dynamic code loading could be dangerous for your apps: a Google example](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
 * [Report] [Exploiting memory corruption vulnerabilities on Android](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
 * [Report] [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 * [Report] [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
 * [Report] [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
+* [Report] [Google Photos : Theft of Database & Arbitrary Files Android Vulnerability](https://servicenger.com/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/)
+  * [PoC Video](https://youtu.be/iyklTJ9V-Mw)
 
 #### 2022
 * [Report] [RCE IN ADOBE ACROBAT READER FOR ANDROID (CVE-2021-40724)](https://hulkvision.github.io/blog/post1/)
 * [Report] [The Dirty Pipe Vulnerability (CVE-2022-0847)](https://dirtypipe.cm4all.com/)
-  * [PoC] [DirtyPipe for Android](https://github.com/polygraphene/DirtyPipe-Android)
-  * [Video](https://twitter.com/Fire30_/status/1503422980612923404)
-* [Report] [SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction](https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/) 
+  * [PoC Code] [DirtyPipe for Android](https://github.com/polygraphene/DirtyPipe-Android)
+  * [PoC Video](https://twitter.com/Fire30_/status/1503422980612923404)
+* [Report] [SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction](https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/)
+* [Report] [Auth Bypass in com.google.android.googlequicksearchbox](https://feed.bugs.xdavidhu.me/bugs/0013)
+* [Report] [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
+  * [PoC Video] [Pixel 6 Full Lockscreen Bypass POC](https://www.youtube.com/watch?v=dSgSnYPgzT0)
+  * [Bug Report] [Complete Lock Screen Bypass on Google Pixel devices](https://feed.bugs.xdavidhu.me/bugs/0016)
+  * [Bug Patch] [aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base/commit/ecbed81c3a331f2f0458923cc7e744c85ece96da)
 
 
 # Paper
@@ -85,7 +92,7 @@
 * [Paper] [DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices](https://www.usenix.org/system/files/sec22summer_park-cheoljun.pdf)
   * [Report] [KAIST 연구진, 이동통신 단말 보안 테스트 기술로 구현 오류 22건 발견](https://gsis.kaist.ac.kr/blog/kaist-%ec%97%b0%ea%b5%ac%ec%a7%84-%ec%9d%b4%eb%8f%99%ed%86%b5%ec%8b%a0-%eb%8b%a8%eb%a7%90-%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%88%a0%eb%a1%9c-%ea%b5%ac%ed%98%84-%ec%98%a4/?fbclid=IwAR37QzRuibvjOdZusXk5X96_DD7ja6z2crxUPllY0qTubPX84AujKqPnA2s)
 * [Paper] [Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design](https://eprint.iacr.org/2022/208.pdf)
-  * [PoC] [Keybuster](https://github.com/shakevsky/keybuster)
+  * [PoC Code] [Keybuster](https://github.com/shakevsky/keybuster)
 * [Paper] [ARM 캐시 일관성 인터페이스를 이용한 안드로이드OS 의 스크린 잠금 기능 부채널 공격](http://koreascience.or.kr/article/JAKO202211955000026.pdf)
 * [Paper] [GhostTouch: Targeted Attacks on Touchscreens without Physical Touch](https://www.usenix.org/system/files/sec22summer_wang-kai.pdf)
 * [Paper] [SAUSAGE: Security Analysis of Unix domain Socket usAGE in Android](https://arxiv.org/pdf/2204.01516.pdf)
@@ -232,6 +239,7 @@
 * [Awesome-Android-Security #1](https://github.com/saeidshirazi/awesome-android-security)
 * [Awesome-Android-Security #2](https://github.com/ashishb/android-security-awesome)
 * [Awesome-Android-Security #3](https://github.com/vaib25vicky/awesome-mobile-security)
+* [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
 * [Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021)
 * [TEE Basics & General](https://github.com/enovella/TEE-reversing) : TEE Resources
 * [Mobile CTF challenges](https://github.com/xtiankisutsa/awesome-mobile-CTF)
