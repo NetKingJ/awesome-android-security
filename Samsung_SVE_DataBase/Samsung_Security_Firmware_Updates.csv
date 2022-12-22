@@ -1,4 +1,4 @@
-Year,Month,Reported on,SVE,CVE,Title,Affected versions,Severity,Description,Report
+Year,Month,Reported on,SVE,CVE,Title,Affected versions,Severity,Description,Acknowledgement
 2015,10,2015-07-30,SVE-2015-4614,CVE-2015-7894,libQjpeg Image Decoding Memory Corruption,L(5.0) and above,High,"The specific JPEG files (non-header information image) can make memory corruption due to a flaw in libQjpeg.so and it is possible to be used to exploit vulnerability.
 The newly released 3rd-party libQjpeg library includes a defense code for prevention of memory corruption.", Natalie Silvanovich of Google Project Zero
 2015,10,2015-08-08,SVE-2015-4643,CVE-2015-7896,libQjpeg DoIntegralUpsample Crash,L(5.0) and above,Moderate,"The specific JPEG files (non-header information image) can make memory corruption due to a flaw in libQjpeg.so and it is possible to be used to exploit vulnerability.
@@ -194,7 +194,15 @@ The patch prevents system crashes by handling unexpected exceptions.",Qing Zhang
 Qualcomm patch is applied.",Gal Beniamini of Google Project Zero
 2017,4,2016-09-21,SVE-2016-7142,,Various setting properties can be reset by unprotected intent,"M(6.0), N(7.x)",Low,"The vulnerability allows unauthorized processes to reset the configuration of various applications by broadcasting an unprotected intent.
 The patch restricts the senders capable of broadcasting the intent by permission.",Qing Zhang of Xiaomi and Guangdong Bai of Singapore Institute of Technology (SIT)
-2017,4,2017-01-12,"SVE-2017-8109, SVE-2017-8110, SVE-2017-8115, SVE-2017-8118, and SVE-2017-8119",,Crash on several services via Serializable object,"KK(4.4), L(5.0/5.1), M(6.0), N(7.x)",Low,"Lack of appropriate exception handling for Intents including Serializable instance allows attackers crash several system processes resulting in a possible DoS attack.
+2017,4,2017-01-12,SVE-2017-8109,,Crash on several services via Serializable object,"KK(4.4), L(5.0/5.1), M(6.0), N(7.x)",Low,"Lack of appropriate exception handling for Intents including Serializable instance allows attackers crash several system processes resulting in a possible DoS attack.
+The patch prevents system crashes by handling unexpected exceptions.",Qing Zhang of Xiaomi and Guangdong Bai of Singapore Institute of Technology (SIT)
+2017,4,2017-01-12, SVE-2017-8110,,Crash on several services via Serializable object,"KK(4.4), L(5.0/5.1), M(6.0), N(7.x)",Low,"Lack of appropriate exception handling for Intents including Serializable instance allows attackers crash several system processes resulting in a possible DoS attack.
+The patch prevents system crashes by handling unexpected exceptions.",Qing Zhang of Xiaomi and Guangdong Bai of Singapore Institute of Technology (SIT)
+2017,4,2017-01-12,SVE-2017-8115,,Crash on several services via Serializable object,"KK(4.4), L(5.0/5.1), M(6.0), N(7.x)",Low,"Lack of appropriate exception handling for Intents including Serializable instance allows attackers crash several system processes resulting in a possible DoS attack.
+The patch prevents system crashes by handling unexpected exceptions.",Qing Zhang of Xiaomi and Guangdong Bai of Singapore Institute of Technology (SIT)
+2017,4,2017-01-12,SVE-2017-8118,,Crash on several services via Serializable object,"KK(4.4), L(5.0/5.1), M(6.0), N(7.x)",Low,"Lack of appropriate exception handling for Intents including Serializable instance allows attackers crash several system processes resulting in a possible DoS attack.
+The patch prevents system crashes by handling unexpected exceptions.",Qing Zhang of Xiaomi and Guangdong Bai of Singapore Institute of Technology (SIT)
+2017,4,2017-01-12,SVE-2017-8119,,Crash on several services via Serializable object,"KK(4.4), L(5.0/5.1), M(6.0), N(7.x)",Low,"Lack of appropriate exception handling for Intents including Serializable instance allows attackers crash several system processes resulting in a possible DoS attack.
 The patch prevents system crashes by handling unexpected exceptions.",Qing Zhang of Xiaomi and Guangdong Bai of Singapore Institute of Technology (SIT)
 2017,4,2017-02-14,SVE-2017-8290,,User data can be leaked by read log file,"L(5.0/5.1), M(6.0), N(7.x)",Moderate,"When devices are rebooted by unexpected crashes, numerous information can be leaked by world-wide readable log files created during reboot time.
 The fix restricts access to the log files by reducing read permissions.",Ryan Johnson and Angelos Stavrou of Kryptowire
