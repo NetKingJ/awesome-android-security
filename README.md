@@ -63,6 +63,11 @@
   * [Bug Report] [Complete Lock Screen Bypass on Google Pixel devices](https://feed.bugs.xdavidhu.me/bugs/0016)
   * [Bug Patch] [aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base/commit/ecbed81c3a331f2f0458923cc7e744c85ece96da)
 
+#### 2023
+* [Report] [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
+  * [PoC Code] [Exploit for CVE-2022-38181](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Mali/CVE_2022_38181)
+  * [PoC Code] [Exploit for CVE-2022-20186](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Mali/CVE_2022_20186)
+
 
 # Paper
 
