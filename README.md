@@ -105,6 +105,8 @@
 * [Paper] [FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware](https://www.ndss-symposium.org/wp-content/uploads/2022-136-paper.pdf)
 * [Paper] [Large-scale Security Measurements on the Android Firmware Ecosystem](https://chicharitomu14.github.io/files/2022-ICSE.pdf)
 * [Paper] [GhostTalk: Interactive Attack on Smartphone Voice System Through Power Line](https://arxiv.org/pdf/2202.02585.pdf)
+* [Paper] [VirtualPatch: fixing Android security vulnerabilities with app-level virtualization](https://thesis.unipd.it/bitstream/20.500.12608/32823/1/Pizzi_Simeone.pdf)
+* [Paper] [Implication of animation on Android security](https://cse.seu.edu.cn/_upload/article/files/15/0e/34aa5a7d4955bf4d17692c70f400/9163dfa2-2980-4913-93cf-7a2f3b408771.pdf)
 
 
 # Speaker
