@@ -170,8 +170,8 @@
 #### Static / Dynamic Analysis
 * [JEB Decompiler](https://www.pnfsoftware.com/) : Powerful Integrated Analysis Tools
 * [IDA Pro](https://hex-rays.com/) : Powerful Integrated Analysis Tools
-* [APKLab](https://github.com/APKLab/APKLab) : APK Integration Tool in VSCode
-* [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : [Online Service](https://mobsf.netking.xyz/)
+* [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : [Online Service](https://mobsf.netking.xyz/) Integrated Analysis Tools
+* [Frida](https://github.com/frida/frida) : Dynamic Instrumentation Toolkit
 * [Apktool](https://github.com/iBotPeaches/Apktool) : APK Files Reverse Engineering
 * [Bytecode Viewer](https://bytecodeviewer.com/) : Java Reverse Engineering
 * [JD-GUI](http://java-decompiler.github.io/) : Java Decompiler
@@ -179,6 +179,7 @@
 * [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Manipulate Android and iOS Apps at Runtime
 * [APKLeaks](https://github.com/dwisiswant0/apkleaks) : Scanning APK File for URIs, Endpoints & Secrets
 * [Apkingo](https://github.com/andpalmier/apkingo) : APK Details Exploration Tool
+* [APKLab](https://github.com/APKLab/APKLab) : APK Integration Tool in VSCode
 
 #### Online Analysis
 * [Oversecured](https://oversecured.com/) : Paid Use
