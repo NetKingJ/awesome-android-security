@@ -67,6 +67,7 @@
 * [Report] [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
   * [PoC Code] [Exploit for CVE-2022-38181](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Mali/CVE_2022_38181)
   * [PoC Code] [Exploit for CVE-2022-20186](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Mali/CVE_2022_20186)
+* [Report] [Protecting Android clipboard content from unintended exposure](https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/)
 
 
 # Paper
