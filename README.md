@@ -16,6 +16,7 @@
 * [Frida Cheatsheet and Code Snippets for Android](https://erev0s.com/blog/frida-code-snippets-for-android/)
 * [Frida HandBook](https://learnfrida.info/)
 * [Android App Security Checklist](https://github.com/hamm0nz/android_app_security_checklist)
+* [Android Vulnerabilities](https://oversecured.com/vulnerabilities) : Oversecured's Android Vulnerability List
 
 
 # Report
