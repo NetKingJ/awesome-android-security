@@ -69,6 +69,8 @@
   * [PoC Code] [Exploit for CVE-2022-38181](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Mali/CVE_2022_38181)
   * [PoC Code] [Exploit for CVE-2022-20186](https://github.com/github/securitylab/tree/main/SecurityExploits/Android/Mali/CVE_2022_20186)
 * [Report] [Protecting Android clipboard content from unintended exposure](https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/)
+* [Report] [The Fuzzing Guide to the Galaxy: An Attempt with Android System Services](https://blog.thalium.re/posts/fuzzing-samsung-system-services/)
+* [Report] [ARM TrustZone: pivoting to the secure world](https://blog.thalium.re/posts/pivoting_to_the_secure_world/)
 
 
 # Paper
@@ -109,6 +111,9 @@
 * [Paper] [GhostTalk: Interactive Attack on Smartphone Voice System Through Power Line](https://arxiv.org/pdf/2202.02585.pdf)
 * [Paper] [VirtualPatch: fixing Android security vulnerabilities with app-level virtualization](https://thesis.unipd.it/bitstream/20.500.12608/32823/1/Pizzi_Simeone.pdf)
 * [Paper] [Implication of animation on Android security](https://cse.seu.edu.cn/_upload/article/files/15/0e/34aa5a7d4955bf4d17692c70f400/9163dfa2-2980-4913-93cf-7a2f3b408771.pdf)
+* [Paper] [Android Native Library Fuzzing](https://github.com/paocela/AndroidNativeFuzzingFramework/blob/master/Thesis%20Document/AndroidNativeLibraryFuzzing.pdf)
+  * [Presentation Slides](https://github.com/paocela/AndroidNativeFuzzingFramework/blob/master/Thesis%20Document/Presentation.pdf)
+  * [Tool] [American Fuzzy Lop plus plus (AFL++)](https://github.com/paocela/AFLplusplus-AndroidPatches)
 
 
 # Speaker
