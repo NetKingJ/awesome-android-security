@@ -112,8 +112,9 @@
 * [Paper] [VirtualPatch: fixing Android security vulnerabilities with app-level virtualization](https://thesis.unipd.it/bitstream/20.500.12608/32823/1/Pizzi_Simeone.pdf)
 * [Paper] [Implication of animation on Android security](https://cse.seu.edu.cn/_upload/article/files/15/0e/34aa5a7d4955bf4d17692c70f400/9163dfa2-2980-4913-93cf-7a2f3b408771.pdf)
 * [Paper] [Android Native Library Fuzzing](https://github.com/paocela/AndroidNativeFuzzingFramework/blob/master/Thesis%20Document/AndroidNativeLibraryFuzzing.pdf)
+  * [Tool] [AFLplusplus-AndroidPatches](https://github.com/paocela/AFLplusplus-AndroidPatches)
   * [Presentation Slides](https://github.com/paocela/AndroidNativeFuzzingFramework/blob/master/Thesis%20Document/Presentation.pdf)
-  * [Tool] [American Fuzzy Lop plus plus (AFL++)](https://github.com/paocela/AFLplusplus-AndroidPatches)
+
 
 
 # Speaker
