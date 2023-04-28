@@ -7,7 +7,6 @@
 * [Hacking Android Apps with Frida](https://www.youtube.com/watch?v=iMNs8YAy6pk)
 * [Android Frida Scripts](https://github.com/androidmalware/android_frida_scripts)
 * [Real-time Kernel Protection (RKP)](https://www.samsungknox.com/ko/blog/real-time-kernel-protection-rkp)
-* [Breaking TEE Security](https://www.riscure.com/blog/tee-security-samsung-teegris-part1)
 * [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
 * [Android Security Lecture](https://jyheo.github.io/androidsec/androidsec.html) : Professor 허준영 lecture material
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
@@ -26,6 +25,7 @@
 
 #### 2019
 * ~~[Report] [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)~~ Unable to connect
+* [Report] [Reverse-engineering Samsung S10 TEEGRIS TrustZone OS](http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html)
 
 #### 2020
 * [Report] [Flaws in ‘Find My Mobile’ exposed Samsung phones to hack](https://char49.com/tech-reports/fmmx1-report.pdf)
@@ -36,6 +36,7 @@
 * [Report] [Samsung S20 - RCE via Samsung Galaxy Store App](https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app)
 * [Report] [Exploiting CVE-2020-0041 - Part 1: Escaping the Chrome Sandbox](https://labs.bluefrostsecurity.de/blog/2020/03/31/cve-2020-0041-part-1-sandbox-escape/)
 * [Report] [Exploiting CVE-2020-0041 - Part 2: Escalating to root](https://labs.bluefrostsecurity.de/blog/2020/04/08/cve-2020-0041-part-2-escalating-to-root/)
+* [Report] [Breaking TEE Security Part 1: TEEs, TrustZone and TEEGRIS](https://www.riscure.com/tee-security-samsung-teegris-part-1/)
 
 #### 2021
 * [Report] [In-the-Wild Series: Android Exploits](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-android-exploits.html)
