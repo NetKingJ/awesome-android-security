@@ -37,6 +37,8 @@
 * [Report] [Exploiting CVE-2020-0041 - Part 1: Escaping the Chrome Sandbox](https://labs.bluefrostsecurity.de/blog/2020/03/31/cve-2020-0041-part-1-sandbox-escape/)
 * [Report] [Exploiting CVE-2020-0041 - Part 2: Escalating to root](https://labs.bluefrostsecurity.de/blog/2020/04/08/cve-2020-0041-part-2-escalating-to-root/)
 * [Report] [Breaking TEE Security Part 1: TEEs, TrustZone and TEEGRIS](https://www.riscure.com/tee-security-samsung-teegris-part-1/)
+* [Report] [Breaking TEE Security Part 2: Exploiting Trusted Applications (TAs)](https://www.riscure.com/tee-security-samsung-teegris-part-2/)
+* [Report] [Breaking TEE Security Part 3: Escalating Privileges](https://www.riscure.com/tee-security-samsung-teegris-part-3/)
 
 #### 2021
 * [Report] [In-the-Wild Series: Android Exploits](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-android-exploits.html)
