@@ -117,10 +117,14 @@
 * [Paper] [Android Native Library Fuzzing](https://github.com/paocela/AndroidNativeFuzzingFramework/blob/master/Thesis%20Document/AndroidNativeLibraryFuzzing.pdf)
   * [Tool] [AFLplusplus-AndroidPatches](https://github.com/paocela/AFLplusplus-AndroidPatches)
   * [Presentation Slides](https://github.com/paocela/AndroidNativeFuzzingFramework/blob/master/Thesis%20Document/Presentation.pdf)
+* [Paper] [Implementasi Static Analysis Dan Background Process Untuk Mendeteksi Malware Pada Aplikasi Android Dengan Mobile Security Framework](https://journal.ittelkom-pwt.ac.id/index.php/ledger/article/view/848/248)
+* [Paper] [CREDENTIAL ANALYSIS FOR SECURITY CONFIGURATION ON CUSTOM ANDROID ROM](https://jtie.stekom.ac.id/index.php/jtie/article/view/149/129)
 
 #### 2023
 * [Paper] [Assessing the security of inter-app communications in android through reinforcement learning](https://www.researchgate.net/profile/Alessio-Merlo/publication/364335274_Assessing_the_Security_of_Inter-App_Communications_in_Android_through_Reinforcement_Learning/links/634ab5c2ff870c55ce27e3f1/Assessing-the-Security-of-Inter-App-Communications-in-Android-through-Reinforcement-Learning.pdf)
 * [Paper] [Android Malware Detection Based on Program Genes](https://www.hindawi.com/journals/scn/2023/2796988/)
+* [Paper] [ImageDroid: Using Deep Learning to Efficiently Detect Android Malware and Automatically Mark Malicious Features](https://www.hindawi.com/journals/scn/2023/5393890/)
+* [Paper] [MVDroid: an android malicious VPN detector using neural networks](https://link.springer.com/article/10.1007/s00521-023-08512-1)
 
 
 # Speaker
