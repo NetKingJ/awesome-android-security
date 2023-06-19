@@ -118,6 +118,9 @@
   * [Tool] [AFLplusplus-AndroidPatches](https://github.com/paocela/AFLplusplus-AndroidPatches)
   * [Presentation Slides](https://github.com/paocela/AndroidNativeFuzzingFramework/blob/master/Thesis%20Document/Presentation.pdf)
 
+#### 2023
+* [Paper] [Assessing the security of inter-app communications in android through reinforcement learning](https://www.researchgate.net/profile/Alessio-Merlo/publication/364335274_Assessing_the_Security_of_Inter-App_Communications_in_Android_through_Reinforcement_Learning/links/634ab5c2ff870c55ce27e3f1/Assessing-the-Security-of-Inter-App-Communications-in-Android-through-Reinforcement-Learning.pdf)
+* [Paper] [Android Malware Detection Based on Program Genes](https://www.hindawi.com/journals/scn/2023/2796988/)
 
 
 # Speaker
