@@ -181,6 +181,22 @@
   * [Presentation Slides](https://github.com/codeengn/codeengn-conference/blob/master/18/2022%20CodeEngn%20Conference%2018%2C%20Android%20static%20taint%20analysis%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A5%E1%86%B8%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A3%E1%86%BC%20%5B%E1%84%89%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AE%E1%86%AB%5D.pdf)
 * [Speaker] [Android 12에서 Dynamic Taint Analysis 기법을 이용한 Kakao talk의 복호화](https://www.facebook.com/decashx1/videos/796844991474286)
 * [Video] [Hacking a Samsung Galaxy for $6,000,000 in Bitcoin!?](https://youtu.be/icBD5PiyoyI)
+* [Speaker] [Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design](https://youtu.be/BDoWkS_U6fg)
+  * [Presentation Slides](http://i.blackhat.com/USA-22/Wednesday/US-22-Shakevsky-Trust-Dies-in-Darkness.pdf)
+* [Speaker] [Android Universal Root: Exploiting Mobile GPU / Command Queue Drivers](https://www.youtube.com/watch?v=kEl5qbLZVeY)
+  * [Presentation Slides](http://i.blackhat.com/USA-22/Wednesday/US-22-Jin-Android-Universal-Root.pdf)
+* [Speaker] [Attack on Titan M, Reloaded: Vulnerability Research on a Modern Security Chip](https://www.youtube.com/watch?v=bCjkAkXiwK4)
+  * [Presentation Slides](http://i.blackhat.com/USA-22/Thursday/US-22-Melotti-Attack-on-Titan-M-Reloaded.pdf)
+  * [Tool] [Titan M tools](https://github.com/quarkslab/titanm/)
+* [Speaker] [Monitoring Surveillance Vendors: A Deep Dive into In-the-Wild Android Full Chains in 2021](https://www.youtube.com/watch?v=0Vv5kLj0tz4)
+  * [Presentation Slides](http://i.blackhat.com/USA-22/Wednesday/US-22-Jin-Monitoring-Surveillance-Vendors.pdf)
+
+#### 2023
+* [Presentation Slides] [Two Bugs With One PoC: Rooting Pixel 6 From Android 12 to Android 13](http://i.blackhat.com/Asia-23/AS-23-WANG-Two-bugs-with-one-PoC-Rooting-Pixel-6-from-Android-12-to-Android-13.pdf?_gl=1*1pwpjr2*_gcl_au*MTQxMjExODI1My4xNjkxNzU1NzM3*_ga*MTU1NTU0MTMxNC4xNjkxNzU1NzM4*_ga_K4JK67TFYV*MTY5MTc1NTczNy4xLjEuMTY5MTc1NjE0OS4wLjAuMA..&_ga=2.184716713.1447754781.1691755738-1555541314.1691755738)
+* [Presentation Slides] [Dirty Stream Attack, Turning Android Share Targets Into Attack Vectors](http://i.blackhat.com/Asia-23/AS-23-Valsamaras-Dirty-Stream-Attack-Turning-Android.pdf?_gl=1*mhxzgl*_gcl_au*MTQxMjExODI1My4xNjkxNzU1NzM3*_ga*MTU1NTU0MTMxNC4xNjkxNzU1NzM4*_ga_K4JK67TFYV*MTY5MTc1NTczNy4xLjEuMTY5MTc1NjQ5MS4wLjAuMA..&_ga=2.184716713.1447754781.1691755738-1555541314.1691755738)
+* [Presentation Slides] [Revisiting Stealthy Sensitive Information Collection from Android Apps](http://i.blackhat.com/Asia-23/AS-23-Bai-Stealthy-Sensitive-Information-Collection-from-Android-Apps.pdf?_gl=1*540sj8*_gcl_au*MTQxMjExODI1My4xNjkxNzU1NzM3*_ga*MTU1NTU0MTMxNC4xNjkxNzU1NzM4*_ga_K4JK67TFYV*MTY5MTc1NTczNy4xLjEuMTY5MTc1NjUwOC4wLjAuMA..&_ga=2.176719269.1447754781.1691755738-1555541314.1691755738)
+* [Presentation Slides] [The Art of Rooting Android devices by GPU MMU features](https://i.blackhat.com/BH-US-23/Presentations/US-23-WANG-The-Art-of-Rooting-Android-devices-by-GPU-MMU-features.pdf)
+  * [Video] [Android 13 LPE](https://www.youtube.com/watch?v=D_AMrLbo3v8)
 
 
 # Tools
