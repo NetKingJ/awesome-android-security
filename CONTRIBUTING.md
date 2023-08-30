@@ -6,7 +6,7 @@ Your contributions are always welcome!
 
 * Add the link: `* [category] [title-name](http://example.com)`
 * Add the link (Tools): `* [tool-name](http://example.com) : A short description`
-    * Keep descriptions concise and **short**.
+  * Keep descriptions concise and **short**.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
