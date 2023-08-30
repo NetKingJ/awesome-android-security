@@ -16,6 +16,8 @@
 * [Frida HandBook](https://learnfrida.info/)
 * [Android App Security Checklist](https://github.com/hamm0nz/android_app_security_checklist)
 * [Android Vulnerabilities](https://oversecured.com/vulnerabilities) : Oversecured's Android Vulnerability List
+* [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
+* [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 
 
 # Report
@@ -54,6 +56,9 @@
 * [Report] [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 * [Report] [Google Photos : Theft of Database & Arbitrary Files Android Vulnerability](https://servicenger.com/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/)
   * [PoC Video](https://youtu.be/iyklTJ9V-Mw)
+* [Report] [Exploring intent-based Android security vulnerabilities on Google Play (Part 1/3)](https://snyk.io/blog/exploring-android-intent-based-security-vulnerabilities-google-play/)
+* [Report] [Hunting intent-based Android security vulnerabilities with Snyk Code (Part 2/3)](https://snyk.io/blog/hunting-intent-based-android-security-vulnerabilities-with-snyk-code/)
+* [Report] [Mitigating and remediating intent-based Android security vulnerabilities (Part 3/3)](https://snyk.io/blog/mitigating-remediating-intent-based-android-security-vulnerabilities/)
 
 #### 2022
 * [Report] [RCE IN ADOBE ACROBAT READER FOR ANDROID (CVE-2021-40724)](https://hulkvision.github.io/blog/post1/)
@@ -66,6 +71,8 @@
   * [PoC Video] [Pixel 6 Full Lockscreen Bypass POC](https://www.youtube.com/watch?v=dSgSnYPgzT0)
   * [Bug Report] [Complete Lock Screen Bypass on Google Pixel devices](https://feed.bugs.xdavidhu.me/bugs/0016)
   * [Bug Patch] [aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base/commit/ecbed81c3a331f2f0458923cc7e744c85ece96da)
+* [Report] [Lock Screen Bypass Exploit of Android Devices (CVE-2022–20006)](https://medium.com/maverislabs/lock-screen-bypass-exploit-of-android-devices-cve-2022-20006-604958fcee3a)
+  * [PoC Video](https://www.youtube.com/shorts/SLj08iK_ygM)
 
 #### 2023
 * [Report] [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
