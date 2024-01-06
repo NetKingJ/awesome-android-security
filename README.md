@@ -88,6 +88,9 @@
 #### 2015
 * [Paper] [Fuzzing Android: a recipe for uncovering vulnerabilities inside system components in Android](https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf)
 
+#### 2017
+* [Paper] [Security analysis of Samsung Knox](https://seclab.skku.edu/wp-content/uploads/2016/12/Knox_ICACT.pdf)
+
 #### 2016
 * [Paper] [STAB Fuzzing: A Study of Android's Binder IPC and Linux/Android Fuzzing](https://www.semanticscholar.org/paper/STAB-Fuzzing-%3A-A-St-udy-of-A-ndroid-%E2%80%99-s-B-inder-IPC-Peters/9ed41192e02e106b5367c9d143f447f7036b2aa0?p2df)
 * [Paper] [안드로이드 장치 드라이버에 대한 효과적 취약점 탐지 기법](http://kiise.or.kr/e_journal/2016/11/JOK/pdf/01.pdf)
@@ -132,6 +135,7 @@
 * [Paper] [Android Malware Detection Based on Program Genes](https://www.hindawi.com/journals/scn/2023/2796988/)
 * [Paper] [ImageDroid: Using Deep Learning to Efficiently Detect Android Malware and Automatically Mark Malicious Features](https://www.hindawi.com/journals/scn/2023/5393890/)
 * [Paper] [MVDroid: an android malicious VPN detector using neural networks](https://link.springer.com/article/10.1007/s00521-023-08512-1)
+* [Paper] [Security and Privacy Analysis of Samsung's Crowd-Sourced Bluetooth Location Tracking System](https://www.usenix.org/system/files/sec23winter-prepub-498-yu.pdf)
 
 
 # Speaker
