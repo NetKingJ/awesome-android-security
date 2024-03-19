@@ -208,6 +208,8 @@
 * [Presentation Slides] [Revisiting Stealthy Sensitive Information Collection from Android Apps](http://i.blackhat.com/Asia-23/AS-23-Bai-Stealthy-Sensitive-Information-Collection-from-Android-Apps.pdf?_gl=1*540sj8*_gcl_au*MTQxMjExODI1My4xNjkxNzU1NzM3*_ga*MTU1NTU0MTMxNC4xNjkxNzU1NzM4*_ga_K4JK67TFYV*MTY5MTc1NTczNy4xLjEuMTY5MTc1NjUwOC4wLjAuMA..&_ga=2.176719269.1447754781.1691755738-1555541314.1691755738)
 * [Presentation Slides] [The Art of Rooting Android devices by GPU MMU features](https://i.blackhat.com/BH-US-23/Presentations/US-23-WANG-The-Art-of-Rooting-Android-devices-by-GPU-MMU-features.pdf)
   * [Video] [Android 13 LPE](https://www.youtube.com/watch?v=D_AMrLbo3v8)
+* [[Presentation Slides] [Attacking NPUs of Multiple Platforms](http://i.blackhat.com/EU-23/Presentations/EU-23-Zhang-Attacking-NPUs-of-Multiple-Platforms.pdf?_gl=1*1fs6kve*_gcl_au*ODI0NzIxMzE3LjE3MTA4MjE0OTA.*_ga*MjI5NTIyODAyLjE3MTA4MjE0OTA.*_ga_K4JK67TFYV*MTcxMDgyMTQ5MC4xLjEuMTcxMDgyMTk2Ni4wLjAuMA..&_ga=2.262759564.1027216815.1710821490-229522802.1710821490)
+  * [Video] [Attacking NPUs of Multiple Platforms](https://youtu.be/GDiybPQn7g4?si=64GCXhrIkqsoqdub) 
 
 
 # Tools
