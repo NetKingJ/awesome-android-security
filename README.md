@@ -315,4 +315,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hpcaitech/Open-Sora&type=Date)](https://star-history.com/#NetKingJ/awesome-android-security&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NetKingJ/awesome-android-security&type=Date)](https://star-history.com/#NetKingJ/awesome-android-security&Date)
