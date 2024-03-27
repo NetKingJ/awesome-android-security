@@ -313,16 +313,6 @@
 ![Alt text](img/Samsung_Mobile_Security_Statistics.png)
 
 
-## Backers
-Thank you to all our supporters! 🙏
-> \* Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
+## Star History
 
-<a href="https://www.buymeacoffee.com/netkingj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
-
-**[⬆ back to top](#Theory)**
-
-
-## Contributing
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/NetKingJ/awesome-android-security/tree/main/CONTRIBUTING.md) first.
-
-If you have any question about this opinionated list, do not hesitate to contact me open an [issue](https://github.com/NetKingJ/awesome-android-security/issues) on GitHub.
+[![Star History Chart](https://api.star-history.com/svg?repos=hpcaitech/Open-Sora&type=Date)](https://star-history.com/#NetKingJ/awesome-android-security&Date)
