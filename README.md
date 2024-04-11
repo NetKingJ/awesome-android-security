@@ -26,7 +26,8 @@
 * [Report] [Writing the worlds worst Android fuzzer](https://gamozolabs.github.io/fuzzing/2018/10/18/terrible_android_fuzzer.html)
 
 #### 2019
-* ~~[Report] [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)~~ Unable to connect
+* [Report] [Samsung Galaxy Apps Store RCE via MITM](https://web.archive.org/web/20210517154759/https://adyta.pt/en/writeup-samsung-app-store-rce-via-mitm-2/)
+  
 * [Report] [Reverse-engineering Samsung S10 TEEGRIS TrustZone OS](http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html)
 
 #### 2020
